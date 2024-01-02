@@ -1,4 +1,4 @@
-<h1>Welcome to our Real-Time Chat App! This application is built with Node.js and Socket.IO, providing a platform for users to engage in live conversations, exchanging messages instantly.</h1>
+<h3>Welcome to our Real-Time Chat App! This application is built with Node.js and Socket.IO, providing a platform for users to engage in live conversations, exchanging messages instantly.</h3>
 
 ## Features
 
